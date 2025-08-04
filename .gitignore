@@ -1,0 +1,15 @@
+# Ignore raw data files
+data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter notebook checkpoints
+.notebook_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
